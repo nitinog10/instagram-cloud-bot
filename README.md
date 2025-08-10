@@ -7,5 +7,3 @@ All this operations takes a random time like a human behaviour.
 
 The bot should run long periods of time ( like half day) in which you follow a number between 72 and 720 followers.
 The bot has a cycle of follow every 10-30minutes and follows in each cycle between 3-10 users;
-
-Creator: Calin Vasile Andrei
